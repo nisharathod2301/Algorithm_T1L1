@@ -36,5 +36,3 @@ int main()
 // 	cout << k << " smallest elements are : ";
 // 	kSmalest(arr, n, k);
 }
-
-// This code is contributed by Pushpesh Raj.
